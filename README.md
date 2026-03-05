@@ -1,6 +1,6 @@
 ﻿# RustWebDev Suite
 <div align="center">
-  <img src="./descriptionportrait.png" width="450" /> <img src=".Cinematic_aerial_shot_of_isolated_medieval_alchem.png" width="450"/>
+  <img src="./descriptionportrait.png" width="450" /> <img src="./danslestunnelsdubackend.png" width="450"/>
 </div>
 
 Collection de projets **Rust HTTP/Web** à construire avec Claude Sonnet 4.6.  
