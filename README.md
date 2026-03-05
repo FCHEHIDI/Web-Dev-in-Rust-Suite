@@ -1,6 +1,11 @@
 ﻿# RustWebDev Suite
 <div align="center">
-  <img src="./descriptionportrait.png" width="500" /> <img src="./danslestunnelsdubackend.png" width="500"/>
+  <tr>
+    <td><img src="./danslestunnelsdubackendverso.png" width="235"/></td>
+    <td><img src="./danslestunnelsdubackend.png" width="235"/></td>
+    <td><img src="./danslestunnelsdubackendverso.png" width="235"/></td>
+    <td><img src="./danslestunnelsdubackend.png" width="235"/></td>
+  </tr>
 </div>
 
 Collection de projets **Rust HTTP/Web** à construire avec Claude Sonnet 4.6.  
