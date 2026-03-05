@@ -4,7 +4,6 @@
     <td><img src="./danslestunnelsdubackendverso.png" width="235"/></td>
     <td><img src="./danslestunnelsdubackend.png" width="235"/></td>
     <td><img src="./danslestunnelsdubackendverso.png" width="235"/></td>
-    <td><img src="./danslestunnelsdubackend.png" width="235"/></td>
   </tr>
 </div>
 
